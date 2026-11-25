@@ -1,0 +1,7 @@
+ebfc753a5c8319624ea7c8b8bd147fddbde243ad8d8618018913675808c4b188  ./README.md
+ba1a384b2578bc80528f84a2b5e0f307244a1926366bcbaf6f53462fbcfebcd9  ./src/pgadvisor/__init__.py
+a5c3ced37408b9fe2b525bd46fbe84ae3005795a40b83962b0714c9f3646d4a5  ./src/pgadvisor/advisor.py
+3ad02ee75355543cdd13198fad25fa3b0c1d5e00b19d5380cbf2266fa614c537  ./src/pgadvisor/cli.py
+31e28c6e2258bebe60fb8409d16d62d0c28f9dc0fc96ce86385ad3622272f761  ./src/pgadvisor/extractor.py
+13fecf782659ddba6e3ed83cb68740022bd81b8be16d4271d162d8d3ee64ead9  ./src/pgadvisor/parser.py
+25836174e24eb86078bb7ff0d146a7d34bd292d267b3665c0e1db40ab04b4415  ./tests/test_advisor.py
